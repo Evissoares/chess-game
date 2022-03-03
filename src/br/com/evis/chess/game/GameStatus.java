@@ -1,0 +1,11 @@
+package br.com.evis.chess.game;
+
+public enum GameStatus {
+
+    ACTIVE,
+    BLACK_WIN,
+    WHITE_WIN,
+    FORFEIT,
+    STALEMATE,
+    RESIGNATION
+}

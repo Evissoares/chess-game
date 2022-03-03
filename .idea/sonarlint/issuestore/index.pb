@@ -1,0 +1,19 @@
+
+W
+'src/br/com/evis/chess/pieces/Queen.java,b\8\b8306133dc71c7a1a5aae63a1fb85ae1d50f550e
+V
+&src/br/com/evis/chess/pieces/Rook.java,8\5\8586519d2abf4784c8f13a5caf07ae8ca23acb75
+V
+&src/br/com/evis/chess/pieces/Spot.java,6\1\61e83c8bc04ffd76dc8f7cd63cfa805bfa10d795
+V
+&src/br/com/evis/chess/pieces/King.java,1\5\15de7bf2fb949bf67bc1c70e6b9a9032a668d79d
+^
+.src/br/com/evis/chess/players/HumanPlayer.java,c\b\cb10077b88275657def4cda4cd1ad83497ac9a22
+a
+1src/br/com/evis/chess/players/ComputerPlayer.java,9\0\9056e9f8f3755abcc6dbc907269dcb6a477b004f
+X
+(src/br/com/evis/chess/pieces/Knight.java,7\9\79818c4c4c15ee4f9351dd518f59ec8ecbd2790e
+X
+(src/br/com/evis/chess/pieces/Bishop.java,8\1\81651b7930230cb1b217fee97a6e2a750be6885e
+O
+src/br/com/evis/chess/Main.java,b\7\b77ff8f77939605f7f956a1d4d9cca627c977599
